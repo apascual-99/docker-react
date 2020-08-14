@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hi there! This is Tolits. I'm bored now!
+        <p className="App-intro">
+          Hi there. This is the feature branch.
         </p>
         <a
           className="App-link"
